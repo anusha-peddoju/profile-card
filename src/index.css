@@ -1,0 +1,94 @@
+*
+{
+  margin:0px;
+}
+
+.card
+{
+  border: 2px solid white;
+  padding: 40px;
+  margin-left:35pc;
+  margin-right: 30pc;
+  text-align: center;
+  border:1px solid rgb(187, 182, 182);
+  border-radius: 10px;
+  
+
+}
+
+
+.btn-lin,.btn-email{
+  cursor: pointer;
+}
+
+
+.pic{
+
+  width:150px;
+  height: 150px;
+  background-size: cover;
+  border-radius: 50%;
+}
+
+
+.h3-info{
+  margin-top:20px;
+  margin-bottom: 3px;
+  font-family: sofia;
+  
+  
+}
+.h3-abt,.h3-skill{
+  color:rgb(247, 192, 109);
+  margin-bottom: 5px;
+  margin-top: 3px;
+  font-family:'Times New Roman', Times, serif;
+  
+  
+}
+
+
+
+p-info{
+  
+  font-size: 20px;
+  font-weight: 300px;
+  
+
+}
+
+.p-abt,.list
+{
+  font-style:italic;
+  font-family: trirong;
+  margin-bottom: 3px;
+}
+
+.btn-email,.btn-lin{
+  padding:5px;
+  color:white;
+  background-color: rgb(34, 34, 31);
+  margin: 10px;
+  border-radius: 10px;
+  font-family: sans-serif;
+ 
+}
+
+
+.footer
+{
+  margin-top: 20px;
+}
+
+.card
+{
+  background-color: rgb(128, 120, 120);
+  color:white;
+}
+
+
+.icon
+{
+  margin-left: 10px;
+  color:rgb(187, 182, 182)
+}
